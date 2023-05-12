@@ -1,0 +1,1 @@
+sqlx migrate add create_subscriptions_table
